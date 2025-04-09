@@ -17,7 +17,7 @@ cd babeltower-eval
 pip install -r requirements.txt
 ```
 
-To evaluate using a local model install vLLM
+To evaluate using a local model, install vLLM:
 ```bash
 pip install vllm
 ```
