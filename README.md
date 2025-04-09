@@ -34,7 +34,7 @@ python -m babeltower_eval.eval_passk \
     --save_translated_code
 ```
 
-### Parameter Details (evaluate.py)
+### Parameter Details (eval_passk.py)
 
 | Parameter             | Type           | Description                                                                 |
 |-----------------------|----------------|-----------------------------------------------------------------------------|
