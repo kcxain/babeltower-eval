@@ -14,7 +14,7 @@ Install the repository:
 ```bash
 git clone https://github.com/kcxain/babeltower-eval.git
 cd babeltower-eval
-pip install -r requirements.txt
+pip install -e .
 ```
 
 To evaluate using a local model, install vLLM:
